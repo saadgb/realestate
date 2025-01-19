@@ -242,6 +242,13 @@ section {
   }
 }
 
+
+@media screen and (min-width: 768px) {
+  .content-box-fluid.left {
+    float: left;
+  }
+}
+
 .circle {
   border-radius: 50%;
 }
@@ -387,7 +394,7 @@ section {
 
 .logo {
   display: block;
-  max-width: 79px;
+  max-width: 200px;
 }
 
 .search-icon, .cart-bag {
@@ -604,10 +611,6 @@ section {
   color: #fff;
 }
 
-.logo {
-  display: block;
-  max-width: 79px;
-}
 
 .search-icon, .cart-bag {
   color: #000;
@@ -796,8 +799,8 @@ section {
  */
 .banner {
   
-  background-size: cover;
-  background-color: #edfff7;
+  
+  background-image: linear-gradient(to top, #fff, #effcf7, #d6ffef, #e0fff3, #effcf7);
   padding: 13% 0 10%;
 }
 
@@ -911,16 +914,19 @@ section {
 
 .about-img-group .about-img-1 {
   margin-top: 80px;
+  border-radius: 8px;
 }
 
 @media screen and (max-width: 767px) {
   .about-img-group .about-img-1 {
     margin-bottom: 30px;
+    border-radius: 8px;
   }
 }
 
 .about-img-group .about-img-2 {
   margin-bottom: 60px;
+  border-radius: 8px;
 }
 
 .about-img-group h3 {
@@ -1015,6 +1021,11 @@ section {
 }
 
 .single-fun img {
+  max-width: 65px;
+  margin-bottom: 30px;
+}
+
+.single-fun svg {
   max-width: 65px;
   margin-bottom: 30px;
 }
@@ -1153,7 +1164,7 @@ section {
 .team .memb-social a:not(:first-child):before {
   content: '';
   position: absolute;
-  top: 3px;
+  top: 10px;
   left: -5px;
   right: 0;
   bottom: 0;
@@ -1166,6 +1177,7 @@ section {
 .single-memb, .post-item {
   border: 1px solid #e5e6ea;
   position: relative;
+  border-radius: 8px;
 }
 
 .single-memb h5, .post-item h5 {
@@ -1201,6 +1213,8 @@ section {
 
 .post-item .post-content {
   padding: 35px 25px;
+  background-color: #fff;
+  border-radius: 8px;
 }
 
 .meta-tag {
@@ -1266,7 +1280,7 @@ section {
 
 .contact form .form-control {
   border: 1px solid #e5e6ea;
-  border-radius: 0;
+  border-radius: 8px;
   padding: 20px 25px;
   font-size: 14px;
   color: #999;
@@ -1538,7 +1552,7 @@ background-color: #edfff7;
 }
 
 .customer-rating i {
-	color: rgb(251, 90, 13);
+	color: #17a682;
 	position: absolute;
 	top: 10px;
 	right: 5px;
@@ -1555,7 +1569,7 @@ background-color: #edfff7;
 	bottom: 0;
 	top: 103px;
 	background-color: #f6f6f6;
-	border: 1px solid rgba(251, 90, 13, 0.1);
+	/* border: 1px solid rgba(251, 90, 13, 0.1); */
 	border-radius: 10px;
 	z-index: -1;
 }
@@ -1599,7 +1613,7 @@ background-color: #edfff7;
 
 .customer-feedback .owl-nav i {
 	background-color: transparent;
-	color: rgb(251, 90, 13);
+	color: #17a682;
 	font-size: 25px;
 }
 
@@ -1669,15 +1683,34 @@ background-color: #edfff7;
 }
 
 
+
+
+
+
+
 .blog
 
 {
 
+  background-color: #edfff7;
+
+
+
+}
+
+
+
+.contact
+
+
+{
 
   background-color: #edfff7;
 
 
+
 }
+
 
 
 /* pricing start */
@@ -1814,3 +1847,72 @@ color: #5cc0a7;
   border: 1px solid #17a682;
   color: #17a682;
 }
+
+
+
+
+
+
+.feature .icon:before {
+  content: "";
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  background: rgba(59, 93, 80, 0.2);
+  border-radius: 50%;
+  right: -16px;
+  bottom: -3px;
+}
+
+
+
+.icon i
+{
+
+font-size: 36px;
+color:#000;
+}
+
+
+.feature .icon {
+  display: inline-block;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+
+
+
+.work-thumbnail
+
+{
+
+
+max-width: 400px;
+
+
+}
+
+
+
+
+.img-ft-right
+{
+
+float: right;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
