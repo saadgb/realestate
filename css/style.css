@@ -1906,13 +1906,40 @@ float: right;
 
 
 
+.banner .contact
+
+{
+
+
+  background-color: transparent;
+}
 
 
 
+.services-container .row
+{
+
+
+margin-bottom: 100px !important;
 
 
 
+}
 
 
 
+.custom-header
+{
 
+  padding: 10% 0 10%;
+
+
+}
+
+.custom-header1
+{
+
+  padding: 5% 0 10%;
+
+
+}
