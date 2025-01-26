@@ -15,7 +15,7 @@
 
 
 body {
-  color: #6c6c6f;
+ 
   background-color: #fff;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -1916,15 +1916,6 @@ float: right;
 
 
 
-.services-container .row
-{
-
-
-margin-bottom: 100px !important;
-
-
-
-}
 
 
 
@@ -1939,7 +1930,110 @@ margin-bottom: 100px !important;
 .custom-header1
 {
 
-  padding: 5% 0 10%;
+  padding: 8% 0 5%;
 
 
 }
+
+.feature p
+
+{
+
+margin-bottom: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.category {
+  display: inline-block;
+  padding: 20px;
+  background: #e0fff3;
+  border-radius: 4px;
+  text-decoration: none !important;
+}
+
+
+
+
+
+
+
+.category .uil {
+  text-align: center;
+  display: inline-block;
+  color: #00aeff;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  margin-right: 20px;
+  background: #ffffff;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+
+
+.ft-head
+{
+
+font-size: 24px;
+padding-bottom: 16px;
+
+}
+
+
+
+.card-feature
+{
+
+
+background-color: #e0fff3;
+border-radius: 4px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
