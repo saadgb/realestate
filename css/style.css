@@ -128,7 +128,7 @@ section {
 }
 
 .btn-filled {
-  background-color: #17a682;
+  background-color: #5f57ff;
 }
 
 .btn-filled:hover {
@@ -138,15 +138,15 @@ section {
 }
 
 .btn-default {
-  background-color: #17a682;
+  background-color: #5f57ff;
   border-radius: 50px;
   color: #fff;
 }
 
 .btn-default:hover {
   background-color: transparent;
-  border: 1px solid #17a682;
-  color: #17a682;
+  border: 1px solid #5f57ff;
+  color: #5f57ff;
   -webkit-box-shadow: 0 0 30px 5px rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 30px 5px rgba(0, 0, 0, 0.05);
 }
@@ -156,7 +156,7 @@ section {
 }
 
 .btn-outline {
-  border: 2px solid #17a682;
+  border: 2px solid #5f57ff;
 }
 
 .btn:focus {
@@ -170,7 +170,7 @@ section {
 }
 
 .tagline {
-  color: #17a682;
+  color: #5f57ff;
   display: block;
   font-size: 14px;
   font-weight: 500;
@@ -191,7 +191,7 @@ section {
 }
 
 .tagline.bar:after {
-  background-color: #17a682;
+  background-color: #5f57ff;
   content: '';
   position: absolute;
   top: 50%;
@@ -284,7 +284,7 @@ section {
 }
 
 .video-btn {
-  background-color: #17a682;
+  background-color: #5f57ff;
   color: #fff;
   display: block;
   font-size: 18px;
@@ -307,7 +307,7 @@ section {
           animation: beat infinite 1.2s;
   height: 100%;
   width: 100%;
-  background-color: #17a682;
+  background-color: #5f57ff;
   border-radius: 50%;
   z-index: -1;
 }
@@ -357,7 +357,7 @@ section {
 }
 
 .read-more:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 /**
@@ -405,7 +405,7 @@ section {
 }
 
 .search-icon:hover, .cart-bag:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 .cart-bag .itemCount {
@@ -423,7 +423,7 @@ section {
 }
 
 .cart-bag .itemCount:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 .abs-header {
@@ -474,7 +474,7 @@ section {
 }
 
 .navbar-nav li a li.current-menu-item a, .navbar-nav li a:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 .navbar-nav li .sub-menu {
@@ -545,7 +545,7 @@ section {
 }
 
 #mobile-menu-toggler:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 @media screen and (min-width: 992px) {
@@ -620,7 +620,7 @@ section {
 }
 
 .search-icon:hover, .cart-bag:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 .cart-bag .itemCount {
@@ -638,7 +638,7 @@ section {
 }
 
 .cart-bag .itemCount:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 .abs-header {
@@ -689,7 +689,7 @@ section {
 }
 
 .navbar-nav li a li.current-menu-item a, .navbar-nav li a:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 .navbar-nav li .sub-menu {
@@ -760,7 +760,7 @@ section {
 }
 
 #mobile-menu-toggler:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 @media screen and (min-width: 992px) {
@@ -800,7 +800,7 @@ section {
 .banner {
   
   
-  background-image: linear-gradient(to top, #fff, #effcf7, #d6ffef, #e0fff3, #effcf7);
+  background-image: linear-gradient(to top, #fff, #f0f6ff, #cfe4ff, #daeaff, #f0f6ff);
   padding: 13% 0 10%;
 }
 
@@ -817,7 +817,7 @@ section {
 
 
 .banner1 {
-  background-color: #edfff7;
+  background-color: #daeaff;
   
 }
 
@@ -1006,7 +1006,7 @@ section {
  * Features section
  */
 .funfacts {
-  background-color: #062820;
+  background-color: #02002e;
   padding: 105px 0;
 }
 
@@ -1191,7 +1191,7 @@ section {
 }
 
 .single-memb a:hover, .post-item a:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 @media screen and (max-width: 767px) {
@@ -1232,7 +1232,7 @@ section {
 }
 
 .meta-tag a i {
-  color: #17a682;
+  color: #5f57ff;
   font-size: 13px;
   margin-right: 10px;
 }
@@ -1317,7 +1317,7 @@ section {
 }
 
 .widget-navigation li a:hover {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 @media screen and (max-width: 767px) {
@@ -1396,12 +1396,12 @@ section {
 }
 
 .footer .foo-top {
-  background-color: #062820;
+  background-color: #02002e;
   padding: 100px 0;
 }
 
 .footer .foo-btm {
-  background-color: #062820;
+  background-color: #02002e;
 }
 
 .footer .foo-btm .copyright {
@@ -1413,7 +1413,7 @@ section {
 }
 
 .footer .foo-btm .copyright a {
-  color: #17a682;
+  color: #5f57ff;
 }
 
 
@@ -1422,7 +1422,7 @@ section {
 {
 
 
-  color: #17a682 !important;
+  color: #5f57ff !important;
 
 }
 
@@ -1490,7 +1490,7 @@ section {
 .features
 {
 
-background-color: #edfff7;
+background-color: #daeaff;
   
 }
 
@@ -1552,7 +1552,7 @@ background-color: #edfff7;
 }
 
 .customer-rating i {
-	color: #17a682;
+	color: #5f57ff;
 	position: absolute;
 	top: 10px;
 	right: 5px;
@@ -1613,7 +1613,7 @@ background-color: #edfff7;
 
 .customer-feedback .owl-nav i {
 	background-color: transparent;
-	color: #17a682;
+	color: #5f57ff;
 	font-size: 25px;
 }
 
@@ -1692,7 +1692,7 @@ background-color: #edfff7;
 
 {
 
-  background-color: #edfff7;
+  background-color: #daeaff;
 
 
 
@@ -1705,7 +1705,7 @@ background-color: #edfff7;
 
 {
 
-  background-color: #edfff7;
+  background-color: #daeaff;
 
 
 
@@ -1788,7 +1788,7 @@ section.pricing {
 .table .thead-dark th
 {
 
-  background-color: #17a682 !important;
+  background-color: #5f57ff !important;
 border-color: #18af87 !important;
 
 }
@@ -1817,7 +1817,7 @@ color: #5cc0a7;
 {
 
 
-  background-color: #edfff7;
+  background-color: #daeaff;
   
 }
 
@@ -1833,7 +1833,7 @@ color: #5cc0a7;
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color: #17a682; /* Set a background color */
+  background-color: #5f57ff; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
@@ -1844,8 +1844,8 @@ color: #5cc0a7;
 
 #myBtn:hover {
   background-color: #fff; /* Add a dark-grey background on hover */
-  border: 1px solid #17a682;
-  color: #17a682;
+  border: 1px solid #5f57ff;
+  color: #5f57ff;
 }
 
 
@@ -1957,7 +1957,7 @@ margin-bottom: 50px;
 .category {
   display: inline-block;
   padding: 20px;
-  background: #e0fff3;
+  background: #daeaff;
   border-radius: 4px;
   text-decoration: none !important;
 }
@@ -1997,7 +1997,7 @@ padding-bottom: 16px;
 {
 
 
-background-color: #e0fff3;
+background-color: #daeaff;
 border-radius: 4px;
 
 
